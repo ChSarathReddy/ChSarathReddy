@@ -44,7 +44,7 @@
 <p>
 <a href="https://www.linkedin.com/in/sarath-reddy-chagamreddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://codebasics.io/portfolio/Chagamreddy-Sarath-Reddy" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-228B22?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
 
