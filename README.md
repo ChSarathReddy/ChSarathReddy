@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarath Reddy</h1>
-<h3 align="center">Aspiring Data Analyst | Business-Oriented Problem Solver | Turning Data into Strategy</h3>
+<h3 align="center">21 yr old who is excited about — understanding businesses, analyzing them, and finding ways to improve them. </h3>
 
 
 
@@ -18,13 +18,13 @@
 <td width="60%">
 
 
-## 🚀 About Me
+## 🚀 More About Me
 
-- 📊 Passionate about converting raw data into meaningful business insights  
-- 🧠 Strong in SQL, Excel, Power BI & Python  
-- 📈 Interested in Business Analytics & Decision Science  
-- 🌱 Currently improving Advanced SQL & Real-world Case Studies  
-- 🎯 Goal: Data Analyst → Business Analyst → Top Consulting  
+- 📊 Always curious about how big companies are built. How do they make decisions? What numbers do they look at?
+- 🤝 I'm looking to collaborate on datasets to understand the medical condition of the businesses / company
+- 📈 Interested in providing insights that reduce cost or increase the revenue / profit.
+- 🌱 Currently learning tools indepth  
+-  ☢ Little off topic, i'm very big "Ben 10" fan 🙂
 
 
 </td>
