@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarath Reddy</h1>
 <h3 align="center">Aspiring Data Analyst | Business-Oriented Problem Solver | Turning Data into Strategy</h3>
 
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChSarathReddy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
