@@ -42,8 +42,10 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href=www.linkedin.com/in/sarath-reddy-chagamreddy><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:chagamreddysarathreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sarath-reddy-chagamreddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://yourportfolio.com](https://codebasics.io/portfolio/Chagamreddy-Sarath-Reddy)" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ---
