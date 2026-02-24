@@ -53,6 +53,12 @@
 ## 📜 Certifications:
 
 -> Codebasics  - Excel: Mother of Business Intelligence
+
+
 -> Codebasics  - Get Job Ready: Power BI Data Analytics for All Levels 3.0
+
+
 -> Codebasics  - Microsoft Fabric Mini: For Data Analysts
+
+
 -> Codebasics  - SQL Beginner to Advanced For Data Professionals
