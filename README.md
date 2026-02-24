@@ -9,7 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=ChSarathReddy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<hr style="border: 1px solid #30363d;">
+
+<table>
+<tr>
+<td width="60%">
+
 
 ## 🚀 About Me
 
@@ -19,7 +24,18 @@
 - 🌱 Currently improving Advanced SQL & Real-world Case Studies  
 - 🎯 Goal: Data Analyst → Business Analyst → Top Consulting  
 
----
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+
+</tr>
+</table>
+
+
+<hr style="border: 1px solid #30363d;">
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +48,7 @@
 <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+<hr style="border: 1px solid #30363d;">
 
 ## 📌 Featured Projects
 
@@ -41,7 +57,7 @@
 - 📢 Promotional Campaign Performance Analysis  
 - 🍽️ Food Sales Data Dashboard  
 
----
+<hr style="border: 1px solid #30363d;">
 
 ## 🌐 Connect With Me
 
@@ -52,7 +68,7 @@
 </a>
 </p>
 
----
+<hr style="border: 1px solid #30363d;">
 
 ## 📜 Certifications:
 
